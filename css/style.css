@@ -1,12 +1,16 @@
-body {background-color: aqua;}
 h1{font-style: oblique;
 font-size: 50px;
 color: tomato;}
+
 H2{font-variant: inherit;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 30px;
 color: red;}
+
 .embeiu{font-size: 100px;}
+
 .upppercase{text-transform: uppercase;}
+
 .embeiu.upppercase{color: navy}
+
 h2 span{color: purple;}
